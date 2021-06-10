@@ -1,5 +1,5 @@
 _repo: Mirabilia-descripta_65474
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Yule, Henry, Sir
@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '5823'
     url: http://www.gutenberg.org/2009/agents/5823
     wikipedia: http://en.wikipedia.org/wiki/Henry_Yule
+covers:
+- cover_type: archival
+  image_path: 65474-h/images/cover.jpg
 creator:
   author:
     agent_name: Jordanus, Catalani
     gutenberg_agent_id: '53369'
     url: http://www.gutenberg.org/2009/agents/53369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65474#Mirabilia-descripta
 gutenberg_issued: '2021-05-31'
 gutenberg_type: Text
 identifiers:
